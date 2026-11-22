@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Antônio Carlos Pessoa de Albuquerque
+# Antônio Carlos Pessoa de Albuquerque
 
 Estudante de Engenharia da Computação na Escola Politécnica de Pernambuco (POLI/UPE) e monitor de Algoritmos e Estrutura de Dados. Atualmente foco meus estudos e projetos em Análise de Dados, Engenharia de Dados, Machine Learning e Visão Computacional, buscando transformar dados brutos e problemas complexos em soluções de software bem estruturadas.
 
@@ -6,8 +6,8 @@ Estudante de Engenharia da Computação na Escola Politécnica de Pernambuco (PO
 
 ### 🎯 Foco Atual
 
-- 🔭 Construindo projetos práticos de **análise de dados**, **pipelines ETL** e aplicações de **visão computacional** voltadas à resolução de problemas reais.
-- 🌱 Aprofundando conhecimentos em **Engenharia de Dados**, **Machine Learning**, modelagem de bancos de dados e arquitetura de software.
+- Construindo projetos práticos de **análise de dados**, **pipelines ETL** e aplicações de **visão computacional** voltadas à resolução de problemas reais.
+- Aprofundando conhecimentos em **Engenharia de Dados**, **Machine Learning**, modelagem de bancos de dados e arquitetura de software.
 
 ---
 
